@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andylenincp&layout=compact&hide=html" alt="andylenincp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andylenincp&show_icons=true" alt="andylenincp" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=andylenincp&show_icons=true" alt="andylenincp" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andylenincp" alt="andylenincp" /> </p>
