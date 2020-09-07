@@ -11,6 +11,7 @@ I am a systems engineer with a passion for software development, IT project mana
 <a href="https://instagram.com/andylenincp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andylenincp" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/andylenincastillopalma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="andylenincastillopalma" height="30" width="30" /></a>
   <a href="https://wa.me/593996190948" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="andylenincastillopalma" height="30" width="30" /></a>
+  <a href="https://t.me/andylenincp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="andylenincastillopalma" height="30" width="30" /></a>
 </p>
 
 <h4 align="center">:zap: TECHNOLOGIES & SOFTWARE</h4>
