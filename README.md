@@ -17,7 +17,7 @@ I am a systems engineer with a passion for software development, IT project mana
 <h4 align="center">:zap: TECHNOLOGIES & SOFTWARE</h4>
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/3b40f5c4cc89355edb33e86a93e919dd25c36a81/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  
