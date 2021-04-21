@@ -8,13 +8,13 @@ I am a systems engineer with a passion for software development, IT project mana
 <a href="https://twitter.com/andylenincp" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="andylenincp" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/andylenincp" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="andylenincp" height="30" width="30" / ></a>
 <a href="https://fb.com/andylenincp" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="andylenincp" height="30" width="30" /></a>
-<a href="https://instagram.com/andylenincp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andylenincp" height="30" width="30" /></a>
+<a href="https://instagram.com/andylenincp" target="blank"><img align="center" src="https://www.flaticon.es/svg/vstatic/svg/2111/2111463.svg?token=exp=1618965833~hmac=8a31fe917e6523456f1a11c46ab9234f" alt="andylenincp" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/andylenincastillopalma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="andylenincastillopalma" height="30" width="30" /></a>
   <a href="https://wa.me/593996190948" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="andylenincastillopalma" height="30" width="30" /></a>
   <a href="https://t.me/andylenincp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="andylenincastillopalma" height="30" width="30" /></a>
 </p>
 
-<h4 align="center">:zap: TECHNOLOGIES & SOFTWARE</h4>
+<h4 align="center">:zap: SKILLS</h4>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
